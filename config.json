@@ -12,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
      "4kys": {
-      "api": "https://www.4kvm.net/",
+      "api": "https://www.4kvm.net/api.php/provide/vod",
       "name": "4k影视"
     },
     "ruyi": {
