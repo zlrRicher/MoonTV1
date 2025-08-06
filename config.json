@@ -13,7 +13,8 @@
     },
      "4kys": {
       "api": "https://www.4kvm.net/api.php/provide/vod",
-      "name": "4k影视"
+      "name": "4k影视",
+           "detail": "https://www.4kvm.net"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
